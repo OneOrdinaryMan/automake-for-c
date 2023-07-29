@@ -1,8 +1,6 @@
 # Directories to ignore
 autom4te.cache
-
 # Files to ignore
-
 *~
 aclocal.m4
 ar-lib
