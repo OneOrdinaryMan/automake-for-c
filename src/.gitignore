@@ -3,4 +3,3 @@
 # Files to ignore
 hello
 *.o
-Makefile.in
