@@ -1,0 +1,6 @@
+# Directories to ignore
+.deps
+# Files to ignore
+hello
+*.o
+Makefile.in
