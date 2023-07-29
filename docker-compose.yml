@@ -1,0 +1,13 @@
+services:
+  runner:
+    build:
+      context: .
+      target: runner
+  check-installer:
+    build:
+      context: .
+      target: check-install
+  uninstaller:
+    build:
+      context: .
+      target: uninstaller

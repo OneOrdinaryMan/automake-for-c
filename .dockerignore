@@ -1,0 +1,14 @@
+# Directories to ignore
+autom4te.cache
+# Files to ignore
+*~
+aclocal.m4
+ar-lib
+config.h.in
+config.log
+config.status
+configure
+depcomp
+Makefile.in
+missing
+stamp-h1
